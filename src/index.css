@@ -1,0 +1,16 @@
+.hide{
+    display: none !important;
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.pomodoro-section{
+    max-width: 400px !important;
+    margin-top: 5vh;
+}
+h1{
+    font-size: 48px !important;
+}
