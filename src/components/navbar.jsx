@@ -40,9 +40,9 @@ const NavBar = () => {
 
   return (
     <div className="container my-3">
-      <div className="row align-items-center">
+      <div className="d-inline-flex align-items-center">
         <div className="col text-start">
-          <h6>Hamed's Pomodoro</h6>
+          <h3 style={{color:"red"}}>Hamed's Pomodoro</h3>
         </div>
         <div className="col text-end">
           <button onClick={showSettings} className="btn">

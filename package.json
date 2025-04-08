@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://namazihamed.github.io/pomodoro-app",
+  "homepage": "https://namazihamed.github.io/pomodoro-app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
