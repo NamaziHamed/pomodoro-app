@@ -214,7 +214,7 @@ class App extends Component {
           updateContext: this.updateContext,
         }}
       >
-        <div className="container pomodoro-section">
+        <div className="container pomodoro-section border p-3">
           <NavBar />
           <IntervalControllers />
           <Clock />
